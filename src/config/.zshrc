@@ -34,8 +34,8 @@ antigen theme bhilburn/powerlevel9k powerlevel9k
 antigen apply
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="/home/afedotov/.sdkman"
-[[ -s "/home/afedotov/.sdkman/bin/sdkman-init.sh" ]] && source "/home/afedotov/.sdkman/bin/sdkman-init.sh"
+export SDKMAN_DIR="/home/${DEFAULT_USER}/.sdkman"
+[[ -s "${SDKMAN_DIR}/bin/sdkman-init.sh" ]] && source "${SDKMAN_DIR}/bin/sdkman-init.sh"
 
 export M2_HOME=$MAVEN_HOME
 
