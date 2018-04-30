@@ -1,4 +1,4 @@
-DEFAULT_USER=afedotov
+DEFAULT_USER=<set your default username>
 
 source ~/antigen.zsh
 
