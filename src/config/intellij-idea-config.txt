@@ -1,0 +1,13 @@
+Plugins to install:
+- .ignore
+- .env files support
+- Maven Helper
+- Rainbow Brackets
+- Python
+- Kubernetes
+- MapStruct
+- JpaBuddy
+- HashiCorp Terraform / HCL language supprot
+- Ansible
+- SonarLint
+- String Manipulation 
