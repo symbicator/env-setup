@@ -26,6 +26,8 @@ sdk install groovyserv
 sdk install gradle
 sdk install kotlin
 
+brew install --cask docker
+
 brew install --cask istat-menus
 
 brew install --cask jetbrains-toolbox
